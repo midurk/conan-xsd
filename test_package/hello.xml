@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<hello>
+
+  <greeting>Hello</greeting>
+
+  <name>sun</name>
+  <name>moon</name>
+  <name>world</name>
+
+</hello>
